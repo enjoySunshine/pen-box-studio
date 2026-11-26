@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="-755 -1569 393 328" width="786" height="656" preserveAspectRatio="xMidYMid meet" data-edges="-755 1241 -362 1569" data-advance="0">
+  <title>combining acute U+0301</title>
+  <desc>Line bounding box edges left=-755, bottom=1241, right=-362, top=1569; advance=0.</desc>
+  <rect x="-755" y="-1569" width="393" height="328" fill="#111827"/>
+  <g transform="scale(1,-1)" fill="#f4f1ea">
+    <g transform="translate(0 0)"><path d="M-755 1266Q-707 1328 -651.5 1416Q-596 1504 -564 1569L-362 1569L-362 1548Q-406 1483 -493 1388Q-580 1293 -644 1241L-755 1241Z"/></g>
+  </g>
+  <rect x="-755" y="-1569" width="393" height="328" fill="none" stroke="#38bdf8" stroke-width="3" vector-effect="non-scaling-stroke"/>
+</svg>
